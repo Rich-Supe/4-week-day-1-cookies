@@ -30,3 +30,4 @@ window.addEventListener("DOMContentLoaded", (event) => {
   console.log(getCookies(setCookie, "white", "choco"));
 });
 // window.alert('this should be working :o')
+//
